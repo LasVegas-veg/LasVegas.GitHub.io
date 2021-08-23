@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 	<head>
 		<meta charset="UTF-8">
@@ -12,7 +11,7 @@
 				 <a href="STR2.html">
 		<font color="#FFEBCD">	
 	   
-		<div id="Log"> 𝘓𝘢𝘴 𝘷𝘦𝘨𝘢𝘴.ru </div>
+		<div id="Log"> Las Vegas  </div>
 		</font>
 		</a>
 		<center><img  src="gun (1).webp" width="130"></center>
