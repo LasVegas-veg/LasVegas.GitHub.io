@@ -1,0 +1,15 @@
+{
+  "name": "botlasvegas",
+  "version": "1.0.0",
+  "description": "npm i vk-io --save",
+  "main": "Bot.js",
+  "scripts": {
+    "test": "npm i vk-io --save"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "paper-scroll-sdk": "^1.0.10",
+    "vk-io": "^4.3.2"
+  }
+}
