@@ -1,9 +1,7 @@
 const { Keyboard, VK, getRandomId, Context} = require('vk-io')
 const { HearManager } = require('@vk-io/hear')
 
-const vk = new VK({
-    token: '3e97037c112114e48548b46065fa85798b67234a9ff31aa44ae924d0c64e9695251147269badb36089c9f'
-})
+coe97037c11211
 const bot = new HearManager()
 
 vk.updates.on('message_new', bot.middleware)
